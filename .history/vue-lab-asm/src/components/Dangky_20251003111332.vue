@@ -1,0 +1,41 @@
+<script setup>
+
+</script>
+
+<template>
+    <form>
+        <h2>Đăng ký</h2>
+        <div class="group">
+            <label>Username</label>
+            <input type="text">
+        </div>
+        <div class="group">
+            <label>Email</label>
+            <input type="email">
+        </div>
+        <div class="group">
+            <label>Phone</label>
+            <input type="number">
+        </div>
+        <div class="group">
+            <label>Birthday</label>
+            <input type="date">
+        </div>
+        <div class="group">
+            <label>Gender</label>
+            <input type="text">
+        </div>
+        <div class="group">
+            <label>Password</label>
+            <input type="text">
+        </div>
+        <div class="group">
+            <label>Comfirm password</label>
+            <input type="password">
+        </div>
+    </form>
+</template>
+
+<style scoped>
+
+</style>
