@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "c771",
+            "ava"
+      "username": "Phongpoor",
+      "email": "phongtqpk04300@gmail.com",
+      "phone": 782583237,
+      "birthday": "2006-06-23",
+      "gender": "Nam",
+      "password": "cutrangoai",
+      "role": "admin"
+
+    },
+    {
+      "id": "a0e8",
+      "username": "Phong",
+      "email": "phongpoor236@gmail.com",
+      "phone": 393753641,
+      "birthday": "2006-06-23",
+      "gender": "Nam",
+      "password": "cutrangoai",
+      "role": "user"
+    }
+  ]
+}
