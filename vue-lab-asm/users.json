@@ -12,15 +12,15 @@
       "role": "admin"
     },
     {
-      "id": "a0e8",
-      "avatar": "https://cdn2.fptshop.com.vn/small/avatar_trang_1_cd729c335b.jpg",
       "username": "Phong",
       "email": "phongpoor236@gmail.com",
+      "role": "admin",
+      "id": "a0e8",
+      "avatar": "https://cdn2.fptshop.com.vn/small/avatar_trang_1_cd729c335b.jpg",
       "phone": 393753641,
       "birthday": "2006-06-23",
       "gender": "Nam",
-      "password": "cutrangoai",
-      "role": "user"
+      "password": "cutrangoai"
     },
     {
       "id": "4c27",
@@ -30,6 +30,17 @@
       "birthday": "2002-07-19",
       "gender": "Nam",
       "avatar": "https://cdn2.fptshop.com.vn/small/avatar_trang_1_cd729c335b.jpg",
+      "password": "cutrangoai",
+      "role": "user"
+    },
+    {
+      "id": "0323",
+      "username": "Tài",
+      "email": "tai123@gmail.com",
+      "avatar": "https://cdn2.fptshop.com.vn/small/avatar_trang_1_cd729c335b.jpg",
+      "phone": 3839403939,
+      "birthday": "2002-03-14",
+      "gender": "Nam",
       "password": "cutrangoai",
       "role": "user"
     }

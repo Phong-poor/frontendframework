@@ -1,0 +1,383 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Laptop Gaming",
+      "price": 1299.99,
+      "image": "https://placehold.co/300x300/3b82f6/white?text=Laptop",
+      "description": "High-performance gaming laptop with RTX 4060",
+      "category": "Electronics",
+      "stock": 9,
+      "comments": [
+        {
+          "username": "Phongpoor",
+          "comment": "sđsvsvzxvvdsvs",
+          "date": "01:05:38 20/10/2025"
+        }
+      ]
+    },
+
+    {
+      "id": "3",
+      "name": "Mechanical Keyboard",
+      "price": 89.99,
+      "image": "https://placehold.co/300x300/8b5cf6/white?text=Keyboard",
+      "description": "RGB mechanical keyboard with blue switches",
+      "category": "Accessories",
+      "stock": 27
+    },
+    {
+      "price": 49.99,
+      "category": "Accessories",
+      "image": "https://placehold.co/300x300/f59e0b/white?text=USB+Hub",
+      "description": "7-in-1 USB-C hub with HDMI and card reader",
+      "name": "USB-C Hub",
+      "stock": 19,
+      "id": "4",
+      "comments": [
+        {
+          "username": "Phongpoor",
+          "comment": "fdsbsbvhdsjvdvy",
+          "date": "22:37:00 20/10/2025"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Webcam HD",
+      "price": 79.99,
+      "image": "https://placehold.co/300x300/ef4444/white?text=Webcam",
+      "description": "1080p HD webcam with auto-focus",
+      "category": "Electronics",
+      "stock": 14
+    },
+    {
+      "id": "6",
+      "name": "Headphones",
+      "price": 149.99,
+      "image": "https://placehold.co/300x300/06b6d4/white?text=Headphones",
+      "description": "Noise-cancelling wireless headphones",
+      "category": "Audio",
+      "stock": 28,
+      "comments": [
+        {
+          "username": "Phongpoor",
+          "comment": "fhgvdehfvdh",
+          "date": "09:05:49 30/10/2025"
+        }
+      ]
+    }
+  ],
+  "product-favorite": [
+    {
+      "id": "2",
+      "price": 29.99,
+      "category": "Accessories",
+      "image": "https://placehold.co/300x300/10b981/white?text=Mouse",
+      "description": "Ergonomic wireless mouse with RGB lighting",
+      "name": "Wireless Mouse",
+      "stock": 0
+    },
+    {
+      "id": "3",
+      "name": "Mechanical Keyboard",
+      "price": 89.99,
+      "image": "https://placehold.co/300x300/8b5cf6/white?text=Keyboard",
+      "description": "RGB mechanical keyboard with blue switches",
+      "category": "Accessories",
+      "stock": 29
+    },
+    {
+      "id": "1",
+      "name": "Laptop Gaming",
+      "price": 1299.99,
+      "image": "https://placehold.co/300x300/3b82f6/white?text=Laptop",
+      "description": "High-performance gaming laptop with RTX 4060",
+      "category": "Electronics",
+      "stock": 9,
+      "comments": [
+        {
+          "username": "Phongpoor",
+          "comment": "sđsvsvzxvvdsvs",
+          "date": "01:05:38 20/10/2025"
+        }
+      ]
+    }
+  ],
+  "cart": [],
+  "categories": [
+    {
+      "maDM": "DM05",
+      "tenDM": "Electronics",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "maDM": "DM02",
+      "tenDM": "Home"
+    },
+    {
+      "id": "3",
+      "maDM": "DM03",
+      "tenDM": "Fashion"
+    },
+    {
+      "id": "4",
+      "maDM": "DM04",
+      "tenDM": "Audio"
+    },
+    {
+      "id": "1e51",
+      "maDM": "DM01",
+      "tenDM": "Accessories"
+    }
+  ],
+  "orders": [
+    {
+      "id": "4e67",
+      "username": "Phongpoor",
+      "sdt": 782583237,
+      "address": "141/5 Phan Bội Châu",
+      "email": "phongtqpk04300@gmail.com",
+      "pay_type": "cod",
+      "items": [
+        {
+          "id": "2",
+          "name": "Wireless Mouse",
+          "price": 29.99,
+          "quantity": 9
+        },
+        {
+          "id": "1",
+          "name": "Laptop Gaming",
+          "price": 1299.99,
+          "quantity": 3
+        },
+        {
+          "id": "5",
+          "name": "Webcam HD",
+          "price": 79.99,
+          "quantity": 1
+        },
+        {
+          "id": "4",
+          "name": "USB-C Hub",
+          "price": 49.99,
+          "quantity": 1
+        }
+      ],
+      "total": 4299.86,
+      "created_at": 1760691994601,
+      "status": "Đã hủy",
+      "user_id": "c771"
+    },
+    {
+      "id": "fec3",
+      "username": "Phongpoor",
+      "sdt": 782583237,
+      "address": "",
+      "email": "phongtqpk04300@gmail.com",
+      "pay_type": "cod",
+      "items": [
+        {
+          "id": "2",
+          "name": "Wireless Mouse",
+          "price": 29.99,
+          "quantity": 8
+        },
+        {
+          "id": "5",
+          "name": "Webcam HD",
+          "price": 79.99,
+          "quantity": 2
+        },
+        {
+          "id": "4",
+          "name": "USB-C Hub",
+          "price": 49.99,
+          "quantity": 4
+        }
+      ],
+      "total": 599.86,
+      "created_at": 1760857066867,
+      "status": "Đã hủy",
+      "user_id": "c771"
+    },
+    {
+      "id": "2bdd",
+      "username": "Phongpoor",
+      "sdt": 782583237,
+      "address": "141/5 Phan Bội Châu",
+      "email": "phongtqpk04300@gmail.com",
+      "pay_type": "cod",
+      "items": [
+        {
+          "id": "1",
+          "name": "Laptop Gaming",
+          "price": 1299.99,
+          "quantity": 3
+        },
+        {
+          "id": "4",
+          "name": "USB-C Hub",
+          "price": 49.99,
+          "quantity": 2
+        }
+      ],
+      "total": 3999.9500000000003,
+      "created_at": 1760861858482,
+      "status": "pending",
+      "user_id": "c771"
+    },
+    {
+      "id": "b1f9",
+      "username": "Phongpoor",
+      "sdt": 782583237,
+      "address": "471 sfdsfdsvcs",
+      "email": "phongtqpk04300@gmail.com",
+      "pay_type": "cod",
+      "items": [
+        {
+          "id": "1",
+          "name": "Laptop Gaming",
+          "price": 1299.99,
+          "quantity": 3
+        },
+        {
+          "id": "4",
+          "name": "USB-C Hub",
+          "price": 49.99,
+          "quantity": 2
+        }
+      ],
+      "total": 3999.9500000000003,
+      "created_at": 1760862285337,
+      "status": "completed",
+      "user_id": "c771"
+    },
+    {
+      "id": "b357",
+      "username": "Phongpoor",
+      "sdt": 782583237,
+      "address": "sdvcxvcxvdsvds",
+      "email": "phongtqpk04300@gmail.com",
+      "pay_type": "cod",
+      "items": [
+        {
+          "id": "5",
+          "name": "Webcam HD",
+          "price": 79.99,
+          "quantity": 1
+        },
+        {
+          "id": "2",
+          "name": "Wireless Mouse",
+          "price": 29.99,
+          "quantity": 4
+        }
+      ],
+      "total": 199.95,
+      "created_at": 1760862715500,
+      "status": "pending",
+      "user_id": "c771"
+    },
+    {
+      "id": "2655",
+      "username": "Phongpoor",
+      "sdt": 782583237,
+      "address": "dsvdfvdvdf",
+      "email": "phongtqpk04300@gmail.com",
+      "pay_type": "cod",
+      "items": [
+        {
+          "id": "2",
+          "name": "Wireless Mouse",
+          "price": 29.99,
+          "quantity": 1
+        }
+      ],
+      "total": 29.99,
+      "created_at": 1760971506229,
+      "status": "completed",
+      "user_id": "c771"
+    },
+    {
+      "id": "2d05",
+      "username": "Phongpoor",
+      "sdt": 782583237,
+      "address": "dsnvdfjlvndfjvf",
+      "email": "phongtqpk04300@gmail.com",
+      "pay_type": "cod",
+      "items": [
+        {
+          "id": "4",
+          "name": "USB-C Hub",
+          "price": 49.99,
+          "quantity": 5
+        },
+        {
+          "id": "6",
+          "name": "Headphones",
+          "price": 149.99,
+          "quantity": 3
+        }
+      ],
+      "total": 699.9200000000001,
+      "created_at": 1761745850831,
+      "status": "completed",
+      "user_id": "c771"
+    },
+    {
+      "id": "6dbb",
+      "username": "Phongpoor",
+      "sdt": 782583237,
+      "address": "hjdvcxvndiesyfw",
+      "email": "phongtqpk04300@gmail.com",
+      "pay_type": "cod",
+      "items": [
+        {
+          "id": "5",
+          "name": "Webcam HD",
+          "price": 79.99,
+          "quantity": 4
+        },
+        {
+          "id": "3",
+          "name": "Mechanical Keyboard",
+          "price": 89.99,
+          "quantity": 2
+        }
+      ],
+      "total": 499.93999999999994,
+      "created_at": 1761747442264,
+      "status": "pending",
+      "user_id": "c771"
+    },
+    {
+      "id": "1ec0",
+      "username": "Phongpoor",
+      "sdt": 782583237,
+      "address": "hjcvbbvdfhvdfygv",
+      "email": "phongtqpk04300@gmail.com",
+      "pay_type": "cod",
+      "items": [
+        {
+          "id": "6",
+          "name": "Headphones",
+          "price": 149.99,
+          "quantity": 4
+        },
+        {
+          "id": "4",
+          "name": "USB-C Hub",
+          "price": 49.99,
+          "quantity": 2
+        }
+      ],
+      "total": 699.94,
+      "created_at": 1761789920174,
+      "status": "pending",
+      "user_id": "c771"
+    }
+  ]
+}
